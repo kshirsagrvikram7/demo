@@ -1,3 +1,3 @@
 This is test message.
 
-Change 1
+Change 1 --  Change conflict
